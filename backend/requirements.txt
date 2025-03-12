@@ -1,0 +1,8 @@
+requests
+flask
+pymysql
+dbutils
+flask-cors
+flasgger
+flask_mail
+PyJWT==2.9.0

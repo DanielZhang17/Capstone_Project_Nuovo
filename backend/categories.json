@@ -1,0 +1,88 @@
+{
+  "Men": {
+    "Shoes": [
+      "Sneakers",
+      "Dress-Shoes",
+      "Boots",
+      "Sandals-Slides",
+      "Loafers"
+    ],
+    "Clothing": [
+      "T-Shirts",
+      "Dress-Shirts",
+      "Casual-Shirts",
+      "Jackets-Coats",
+      "Jeans",
+      "Trousers",
+      "Shorts",
+      "Sweats-Hoodies"
+    ],
+    "Bags": [
+      "Handbags",
+      "Backpacks",
+      "Tote-Bags",
+      "Crossbody-Bags",
+      "Duffel-Bags"
+    ],
+    "Jewellery": [
+      "Necklaces",
+      "Bracelets",
+      "Earrings",
+      "Rings",
+      "Watches"
+    ],
+    "Accessories": [
+      "Caps",
+      "Beanies",
+      "Sun-Hats",
+      "Belts",
+      "Wallets",
+      "Cardholders",
+      "Sunglasses"
+    ]
+  },
+  "Women": {
+    "Shoes": [
+      "Casual-Shoes",
+      "Sneakers",
+      "Heels",
+      "Flats",
+      "Boots",
+      "Sandals-Slides"
+    ],
+    "Clothing": [
+      "Tops",
+      "Dresses",
+      "Skirts",
+      "Pants",
+      "Blouses",
+      "Jackets-Coats",
+      "Activewear",
+      "Loungewear",
+      "Sweats-Hoodies"
+    ],
+    "Bags": [
+      "Handbags",
+      "Backpacks",
+      "Tote-Bags",
+      "Crossbody-Bags",
+      "Duffel-Bags"
+    ],
+    "Jewellery": [
+      "Necklaces",
+      "Bracelets",
+      "Earrings",
+      "Rings",
+      "Watches"
+    ],
+    "Accessories": [
+      "Caps",
+      "Beanies",
+      "Sun-Hats",
+      "Belts",
+      "Wallets",
+      "Cardholders",
+      "Sunglasses"
+    ]
+  }
+}

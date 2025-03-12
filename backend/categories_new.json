@@ -1,0 +1,66 @@
+{
+  "mens-shoes": [
+    "sneakers",
+    "dress-shoes",
+    "boots",
+    "sandals-slides",
+    "loafers"
+  ],
+  "womens-shoes": [
+    "casual-shoes",
+    "sneakers",
+    "heels",
+    "flats",
+    "boots",
+    "sandals-slides"
+  ],
+  "mens-clothing": [
+    "t-shirts",
+    "dress-shirts",
+    "casual-shirts",
+    "jackets-coats",
+    "jeans",
+    "trousers",
+    "shorts",
+    "sweats-hoodies"
+  ],
+  "womens-clothing": [
+    "tops",
+    "dresses",
+    "skirts",
+    "pants",
+    "blouses",
+    "jackets-coats",
+    "activewear",
+    "loungewear",
+    "sweats-hoodies"
+  ],
+  "bags-backpacks": [
+    "handbags",
+    "backpacks",
+    "tote-bags",
+    "crossbody-bags",
+    "duffel-bags"
+  ],
+  "jewellery": [
+    "necklaces",
+    "bracelets",
+    "earrings",
+    "rings",
+    "watches"
+  ],
+  "hats-headwear": [
+    "caps",
+    "beanies",
+    "sun-hats"
+  ],
+  "belts-wallets": [
+    "belts",
+    "wallets",
+    "cardholders"
+  ],
+  "sunglasses-eyewear": [
+    "sunglasses",
+    "accessories"
+  ]
+}
